@@ -1,0 +1,2358 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+ <header creationtool="TMXWriter" creationtoolversion="0.1" datatype="PlainText" segtype="sentence" adminlang="en-us" srclang="en" o-tmf="ABCTransMem"></header>
+ <body>
+  <tu tuid="First" datatype="plaintext">
+   <prop type="page">//controllers/MY_Controller.php</prop>
+   <tuv xml:lang="en">
+    <seg>Rmlyc3Q=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Last" datatype="plaintext">
+   <prop type="page">//controllers/MY_Controller.php</prop>
+   <tuv xml:lang="en">
+    <seg>TGFzdA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Previous" datatype="plaintext">
+   <prop type="page">//controllers/MY_Controller.php</prop>
+   <tuv xml:lang="en">
+    <seg>UHJldmlvdXM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Next" datatype="plaintext">
+   <prop type="page">//controllers/MY_Controller.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmV4dA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Automail Management" datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXV0b21haWwgTWFuYWdlbWVudA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found about automail." datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQgYWJvdXQgYXV0b21haWwu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about automail failed to save." datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYXV0b21haWwgZmFpbGVkIHRvIHNhdmUu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about automail saved successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYXV0b21haWwgc2F2ZWQgc3VjY2Vzc2Z1bGx5Lg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about automail failed to remove." datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYXV0b21haWwgZmFpbGVkIHRvIHJlbW92ZS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about automail removed successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYXV0b21haWwgcmVtb3ZlZCBzdWNjZXNzZnVsbHku</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Email Template" datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>RW1haWwgVGVtcGxhdGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Automail" datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXV0b21haWw=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Subject" datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3ViamVjdA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit Automail Details" datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBBdXRvbWFpbCBEZXRhaWxz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit automail" datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBhdXRvbWFpbA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="subject" datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>c3ViamVjdA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="content" datatype="plaintext">
+   <prop type="page">//controllers/web_master/automail.php</prop>
+   <tuv xml:lang="en">
+    <seg>Y29udGVudA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Autosms Management" datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXV0b3NtcyBNYW5hZ2VtZW50</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found about autosms." datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQgYWJvdXQgYXV0b3Ntcy4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about autosms failed to save." datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYXV0b3NtcyBmYWlsZWQgdG8gc2F2ZS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about autosms saved successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYXV0b3NtcyBzYXZlZCBzdWNjZXNzZnVsbHku</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about autosms failed to remove." datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYXV0b3NtcyBmYWlsZWQgdG8gcmVtb3ZlLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about autosms removed successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYXV0b3NtcyByZW1vdmVkIHN1Y2Nlc3NmdWxseS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="SMS Template" datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>U01TIFRlbXBsYXRl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Autosms" datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXV0b3Ntcw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit Autosms Details" datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBBdXRvc21zIERldGFpbHM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit autosms" datatype="plaintext">
+   <prop type="page">//controllers/web_master/autosms.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBhdXRvc21z</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Dashboard" datatype="plaintext">
+   <prop type="page">//controllers/web_master/dashboard.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGFzaGJvYXJk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Dashboard of Admin Panel" datatype="plaintext">
+   <prop type="page">//controllers/web_master/dashboard.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGFzaGJvYXJkIG9mIEFkbWluIFBhbmVs</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Invalid user name or password. Please try again." datatype="plaintext">
+   <prop type="page">//controllers/web_master/home.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW52YWxpZCB1c2VyIG5hbWUgb3IgcGFzc3dvcmQuIFBsZWFzZSB0cnkgYWdhaW4u</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Successfully logged in." datatype="plaintext">
+   <prop type="page">//controllers/web_master/home.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3VjY2Vzc2Z1bGx5IGxvZ2dlZCBpbi4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Thanks for login ! Please change your current password" datatype="plaintext">
+   <prop type="page">//controllers/web_master/home.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGhhbmtzIGZvciBsb2dpbiAhIFBsZWFzZSBjaGFuZ2UgeW91ciBjdXJyZW50IHBhc3N3b3Jk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Language Translation" datatype="plaintext">
+   <prop type="page">//controllers/web_master/language_home.php</prop>
+   <tuv xml:lang="en">
+    <seg>TGFuZ3VhZ2UgVHJhbnNsYXRpb24=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Admin User Management" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRtaW4gVXNlciBNYW5hZ2VtZW50</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found about admin user." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQgYWJvdXQgYWRtaW4gdXNlci4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about admin user failed to save." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYWRtaW4gdXNlciBmYWlsZWQgdG8gc2F2ZS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about admin user saved successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYWRtaW4gdXNlciBzYXZlZCBzdWNjZXNzZnVsbHku</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about admin user failed to remove." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYWRtaW4gdXNlciBmYWlsZWQgdG8gcmVtb3ZlLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about admin user removed successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgYWRtaW4gdXNlciByZW1vdmVkIHN1Y2Nlc3NmdWxseS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Manage Admin User" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFuYWdlIEFkbWluIFVzZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Name" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmFtZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Username" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlcm5hbWU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Email" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>RW1haWw=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Type" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBUeXBl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Make Inactive" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFrZSBJbmFjdGl2ZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Make Active" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFrZSBBY3RpdmU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Add Information" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRkIEluZm9ybWF0aW9u</seg>
+   </tuv>
+  </tu>
+  <tu tuid="admin user first name" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>YWRtaW4gdXNlciBmaXJzdCBuYW1l</seg>
+   </tuv>
+  </tu>
+  <tu tuid="admin user last name" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>YWRtaW4gdXNlciBsYXN0IG5hbWU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="admin user email" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>YWRtaW4gdXNlciBlbWFpbA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="admin user password" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>YWRtaW4gdXNlciBwYXNzd29yZA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="admin user username" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>YWRtaW4gdXNlciB1c2VybmFtZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit Admin User" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBBZG1pbiBVc2Vy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit Information" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_admin_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBJbmZvcm1hdGlvbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Manage Category" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFuYWdlIENhdGVnb3J5</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found about category." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQgYWJvdXQgY2F0ZWdvcnku</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about category failed to save." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgY2F0ZWdvcnkgZmFpbGVkIHRvIHNhdmUu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about category saved successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgY2F0ZWdvcnkgc2F2ZWQgc3VjY2Vzc2Z1bGx5Lg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about category failed to remove." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgY2F0ZWdvcnkgZmFpbGVkIHRvIHJlbW92ZS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about category removed successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgY2F0ZWdvcnkgcmVtb3ZlZCBzdWNjZXNzZnVsbHku</seg>
+   </tuv>
+  </tu>
+  <tu tuid="This category is already exist." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGhpcyBjYXRlZ29yeSBpcyBhbHJlYWR5IGV4aXN0Lg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="File format unsupported.Upload Only csv or xls file." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>RmlsZSBmb3JtYXQgdW5zdXBwb3J0ZWQuVXBsb2FkIE9ubHkgY3N2IG9yIHhscyBmaWxlLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Category" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2F0ZWdvcnk=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Category Name" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2F0ZWdvcnkgTmFtZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Category Status" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2F0ZWdvcnkgU3RhdHVz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Active" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWN0aXZl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Inactive" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_category.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5hY3RpdmU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Report" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBSZXBvcnQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Reports" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBSZXBvcnRz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzaw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Info" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBJbmZv</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Created By" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q3JlYXRlZCBCeQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Assigned User" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXNzaWduZWQgVXNlcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Date Start" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGF0ZSBTdGFydA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Status" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhdHVz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="ID : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>SUQgOiA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Title : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGl0bGUgOiA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Info : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mbyA6IA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Date : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGF0ZSA6IA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Keywords : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>S2V5d29yZHMgOiA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Created By : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q3JlYXRlZCBCeSA6IA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Priority : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>UHJpb3JpdHkgOiA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="View" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_report.php</prop>
+   <tuv xml:lang="en">
+    <seg>Vmlldw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Manage Status" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFuYWdlIFN0YXR1cw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found about Status." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQgYWJvdXQgU3RhdHVzLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about Status failed to save." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgU3RhdHVzIGZhaWxlZCB0byBzYXZlLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about Status saved successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgU3RhdHVzIHNhdmVkIHN1Y2Nlc3NmdWxseS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about Status failed to remove." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgU3RhdHVzIGZhaWxlZCB0byByZW1vdmUu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about Status removed successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgU3RhdHVzIHJlbW92ZWQgc3VjY2Vzc2Z1bGx5Lg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="This Status is already exist." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGhpcyBTdGF0dXMgaXMgYWxyZWFkeSBleGlzdC4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Status Id" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhdHVzIElk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Status Name" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhdHVzIE5hbWU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Status Management" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhdHVzIE1hbmFnZW1lbnQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Modify Information" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_status.php</prop>
+   <tuv xml:lang="en">
+    <seg>TW9kaWZ5IEluZm9ybWF0aW9u</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Cannot insert data into database" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2Fubm90IGluc2VydCBkYXRhIGludG8gZGF0YWJhc2U=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Successfully inserted" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3VjY2Vzc2Z1bGx5IGluc2VydGVk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Delete successfully" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGVsZXRlIHN1Y2Nlc3NmdWxseQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="website not valid" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>d2Vic2l0ZSBub3QgdmFsaWQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No file Uploaded." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gZmlsZSBVcGxvYWRlZC4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Cannot upload task file.Please check the file type" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2Fubm90IHVwbG9hZCB0YXNrIGZpbGUuUGxlYXNlIGNoZWNrIHRoZSBmaWxlIHR5cGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Management" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBNYW5hZ2VtZW50</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Manage Task" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFuYWdlIFRhc2s=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Assigned" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBBc3NpZ25lZA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Assign Task" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXNzaWduIFRhc2s=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Close Task" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2xvc2UgVGFzaw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Perform Task" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGVyZm9ybSBUYXNr</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Complete Task" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29tcGxldGUgVGFzaw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Return" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>UmV0dXJu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Title" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBUaXRsZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Information" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBJbmZvcm1hdGlvbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Category Id" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2F0ZWdvcnkgSWQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task description" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBkZXNjcmlwdGlvbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Select User" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2VsZWN0IFVzZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Category " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2F0ZWdvcnkg</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Management" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBNYW5hZ2VtZW50</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found about user." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQgYWJvdXQgdXNlci4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about user failed to save." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgdXNlciBmYWlsZWQgdG8gc2F2ZS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about user saved successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgdXNlciBzYXZlZCBzdWNjZXNzZnVsbHku</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about user failed to remove." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgdXNlciBmYWlsZWQgdG8gcmVtb3ZlLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about user removed successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgdXNlciByZW1vdmVkIHN1Y2Nlc3NmdWxseS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information adout User is already exist " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWRvdXQgVXNlciBpcyBhbHJlYWR5IGV4aXN0IA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Manage User" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFuYWdlIFVzZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Name" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBOYW1l</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Contacts" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29udGFjdHM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Name : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmFtZSA6IA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Name : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBOYW1lIDog</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Email : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>RW1haWwgOiA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Contact Number :" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29udGFjdCBOdW1iZXIgOg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="first name" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>Zmlyc3QgbmFtZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="last name" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>bGFzdCBuYW1l</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Password" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGFzc3dvcmQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Contact Number" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29udGFjdCBOdW1iZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Position : " datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>UG9zaXRpb24gOiA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Depatment :" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGVwYXRtZW50IDo=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Add User" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRkIFVzZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="ID number" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>SUQgbnVtYmVy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="user type" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>dXNlciB0eXBl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="manager" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>bWFuYWdlcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit User Details" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBVc2VyIERldGFpbHM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit User" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBVc2Vy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit Account Details" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBBY2NvdW50IERldGFpbHM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit Account" datatype="plaintext">
+   <prop type="page">//controllers/web_master/manage_user3.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdCBBY2NvdW50</seg>
+   </tuv>
+  </tu>
+  <tu tuid="My Account" datatype="plaintext">
+   <prop type="page">//controllers/web_master/my_account.php</prop>
+   <tuv xml:lang="en">
+    <seg>TXkgQWNjb3VudA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="My Account of Admin Panel" datatype="plaintext">
+   <prop type="page">//controllers/web_master/my_account.php</prop>
+   <tuv xml:lang="en">
+    <seg>TXkgQWNjb3VudCBvZiBBZG1pbiBQYW5lbA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Old password" datatype="plaintext">
+   <prop type="page">//controllers/web_master/my_account.php</prop>
+   <tuv xml:lang="en">
+    <seg>T2xkIHBhc3N3b3Jk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="New password" datatype="plaintext">
+   <prop type="page">//controllers/web_master/my_account.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmV3IHBhc3N3b3Jk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Confirm password" datatype="plaintext">
+   <prop type="page">//controllers/web_master/my_account.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29uZmlybSBwYXNzd29yZA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="My Task" datatype="plaintext">
+   <prop type="page">//controllers/web_master/my_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>TXkgVGFzaw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Reassign Task" datatype="plaintext">
+   <prop type="page">//controllers/web_master/my_task.php</prop>
+   <tuv xml:lang="en">
+    <seg>UmVhc3NpZ24gVGFzaw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Admin Site Setting" datatype="plaintext">
+   <prop type="page">//controllers/web_master/site_setting.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRtaW4gU2l0ZSBTZXR0aW5n</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found about admin site setting." datatype="plaintext">
+   <prop type="page">//controllers/web_master/site_setting.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQgYWJvdXQgYWRtaW4gc2l0ZSBzZXR0aW5nLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Admin site setting failed to save." datatype="plaintext">
+   <prop type="page">//controllers/web_master/site_setting.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRtaW4gc2l0ZSBzZXR0aW5nIGZhaWxlZCB0byBzYXZlLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Admin site setting saved successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/site_setting.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRtaW4gc2l0ZSBzZXR0aW5nIHNhdmVkIHN1Y2Nlc3NmdWxseS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Admin site setting failed to remove." datatype="plaintext">
+   <prop type="page">//controllers/web_master/site_setting.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRtaW4gc2l0ZSBzZXR0aW5nIGZhaWxlZCB0byByZW1vdmUu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Admin site setting removed successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/site_setting.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRtaW4gc2l0ZSBzZXR0aW5nIHJlbW92ZWQgc3VjY2Vzc2Z1bGx5Lg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="admin email" datatype="plaintext">
+   <prop type="page">//controllers/web_master/site_setting.php</prop>
+   <tuv xml:lang="en">
+    <seg>YWRtaW4gZW1haWw=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="number of records per page" datatype="plaintext">
+   <prop type="page">//controllers/web_master/site_setting.php</prop>
+   <tuv xml:lang="en">
+    <seg>bnVtYmVyIG9mIHJlY29yZHMgcGVyIHBhZ2U=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found about &quot;.strtolower($this-&gt;data['title']).&quot;." datatype="plaintext">
+   <prop type="page">//controllers/web_master/user_type_master.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQgYWJvdXQgIi5zdHJ0b2xvd2VyKCR0aGlzLT5kYXRhWyd0aXRsZSddKS4iLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about &quot;.strtolower($this-&gt;data['title']).&quot; failed to save." datatype="plaintext">
+   <prop type="page">//controllers/web_master/user_type_master.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgIi5zdHJ0b2xvd2VyKCR0aGlzLT5kYXRhWyd0aXRsZSddKS4iIGZhaWxlZCB0byBzYXZlLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about &quot;.strtolower($this-&gt;data['title']).&quot; saved successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/user_type_master.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgIi5zdHJ0b2xvd2VyKCR0aGlzLT5kYXRhWyd0aXRsZSddKS4iIHNhdmVkIHN1Y2Nlc3NmdWxseS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about &quot;.strtolower($this-&gt;data['title']).&quot; failed to remove." datatype="plaintext">
+   <prop type="page">//controllers/web_master/user_type_master.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgIi5zdHJ0b2xvd2VyKCR0aGlzLT5kYXRhWyd0aXRsZSddKS4iIGZhaWxlZCB0byByZW1vdmUu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Information about &quot;.strtolower($this-&gt;data['title']).&quot; removed successfully." datatype="plaintext">
+   <prop type="page">//controllers/web_master/user_type_master.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW5mb3JtYXRpb24gYWJvdXQgIi5zdHJ0b2xvd2VyKCR0aGlzLT5kYXRhWyd0aXRsZSddKS4iIHJlbW92ZWQgc3VjY2Vzc2Z1bGx5Lg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Type Master" datatype="plaintext">
+   <prop type="page">//controllers/web_master/user_type_master.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBUeXBlIE1hc3Rlcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Access Control" datatype="plaintext">
+   <prop type="page">//controllers/web_master/user_type_master.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWNjZXNzIENvbnRyb2w=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Home" datatype="plaintext">
+   <prop type="page">//helpers/admin_helper.php</prop>
+   <tuv xml:lang="en">
+    <seg>SG9tZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Urgent" datatype="plaintext">
+   <prop type="page">//helpers/common_helper.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXJnZW50</seg>
+   </tuv>
+  </tu>
+  <tu tuid="High" datatype="plaintext">
+   <prop type="page">//helpers/common_helper.php</prop>
+   <tuv xml:lang="en">
+    <seg>SGlnaA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Normal" datatype="plaintext">
+   <prop type="page">//helpers/common_helper.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm9ybWFs</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide subject" datatype="plaintext">
+   <prop type="page">//views/web_master/automail/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgc3ViamVjdA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please do not change the text like" datatype="plaintext">
+   <prop type="page">//views/web_master/automail/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIGRvIG5vdCBjaGFuZ2UgdGhlIHRleHQgbGlrZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Content" datatype="plaintext">
+   <prop type="page">//views/web_master/automail/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29udGVudA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Save changes" datatype="plaintext">
+   <prop type="page">//views/web_master/automail/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2F2ZSBjaGFuZ2Vz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Cancel" datatype="plaintext">
+   <prop type="page">//views/web_master/automail/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2FuY2Vs</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Search" datatype="plaintext">
+   <prop type="page">//views/web_master/automail/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2VhcmNo</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Automail Subject" datatype="plaintext">
+   <prop type="page">//views/web_master/automail/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXV0b21haWwgU3ViamVjdA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Show All" datatype="plaintext">
+   <prop type="page">//views/web_master/automail/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2hvdyBBbGw=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide content" datatype="plaintext">
+   <prop type="page">//views/web_master/autosms/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgY29udGVudA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Autosms Subject" datatype="plaintext">
+   <prop type="page">//views/web_master/autosms/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXV0b3NtcyBTdWJqZWN0</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide keyword" datatype="plaintext">
+   <prop type="page">//views/web_master/cms/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUga2V5d29yZA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Keyword" datatype="plaintext">
+   <prop type="page">//views/web_master/cms/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>S2V5d29yZA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Introduction" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW50cm9kdWN0aW9u</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Work Flow System" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>V29yayBGbG93IFN5c3RlbQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="New Customer" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmV3IEN1c3RvbWVy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Course" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q291cnNl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Date" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGF0ZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Trainee" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VHJhaW5lZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No result found" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gcmVzdWx0IGZvdW5k</seg>
+   </tuv>
+  </tu>
+  <tu tuid="New Supplier" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmV3IFN1cHBsaWVy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Title" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGl0bGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Created On" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q3JlYXRlZCBPbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Total Transaction" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VG90YWwgVHJhbnNhY3Rpb24=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Since" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2luY2U=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Total Users" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl_backup.php</prop>
+   <tuv xml:lang="en">
+    <seg>VG90YWwgVXNlcnM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Total Tasks" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl_backup.php</prop>
+   <tuv xml:lang="en">
+    <seg>VG90YWwgVGFza3M=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Completed Task" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl_backup.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29tcGxldGVkIFRhc2s=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Latest" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl_backup.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBMYXRlc3Q=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Member Latest" datatype="plaintext">
+   <prop type="page">//views/web_master/dashboard/dashboard.tpl_backup.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWVtYmVyIExhdGVzdA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Lists" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TGlzdHM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Add" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Actions" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWN0aW9ucw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Edit" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RWRpdA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Delete" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGVsZXRl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No information found" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gaW5mb3JtYXRpb24gZm91bmQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Confirmation" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29uZmlybWF0aW9u</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Are you sure to delete this" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXJlIHlvdSBzdXJlIHRvIGRlbGV0ZSB0aGlz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Yes" datatype="plaintext">
+   <prop type="page">//views/web_master/list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>WWVz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Profile" datatype="plaintext">
+   <prop type="page">//views/web_master/main.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UHJvZmlsZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Logout" datatype="plaintext">
+   <prop type="page">//views/web_master/main.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TG9nb3V0</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Menu Setting" datatype="plaintext">
+   <prop type="page">//views/web_master/main.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWVudSBTZXR0aW5n</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Langauge" datatype="plaintext">
+   <prop type="page">//views/web_master/main.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TGFuZ2F1Z2U=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Powered by" datatype="plaintext">
+   <prop type="page">//views/web_master/main.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UG93ZXJlZCBieQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide Category Name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgQ2F0ZWdvcnkgTmFtZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Add Category" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRkIENhdGVnb3J5</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Category Name *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2F0ZWdvcnkgTmFtZSAq</seg>
+   </tuv>
+  </tu>
+  <tu tuid=" Add " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>IEFkZCA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Clear" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2xlYXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Export Category" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RXhwb3J0IENhdGVnb3J5</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Import Category" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW1wb3J0IENhdGVnb3J5</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Download Sample" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RG93bmxvYWQgU2FtcGxl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Upload Csv Here" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXBsb2FkIENzdiBIZXJl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Submit" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_category/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3VibWl0</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Status " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_report/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhdHVzIA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Select Status" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_report/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2VsZWN0IFN0YXR1cw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Select Category" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_report/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2VsZWN0IENhdGVnb3J5</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Date From" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_report/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGF0ZSBGcm9t</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Date To" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_report/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGF0ZSBUbw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide status" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_status/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgc3RhdHVz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide Status Name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_status/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgU3RhdHVzIE5hbWU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Status Name *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_status/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhdHVzIE5hbWUgKg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="You can not delete this status as task exist with this status." datatype="plaintext">
+   <prop type="page">//views/web_master/manage_status/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>WW91IGNhbiBub3QgZGVsZXRlIHRoaXMgc3RhdHVzIGFzIHRhc2sgZXhpc3Qgd2l0aCB0aGlzIHN0YXR1cy4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="File format unsupported" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RmlsZSBmb3JtYXQgdW5zdXBwb3J0ZWQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="End date should be greater" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RW5kIGRhdGUgc2hvdWxkIGJlIGdyZWF0ZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide comment" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgY29tbWVudA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide Task Title" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgVGFzayBUaXRsZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide Task information" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgVGFzayBpbmZvcm1hdGlvbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide category" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgY2F0ZWdvcnk=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide Status" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgU3RhdHVz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Title *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGl0bGUgKg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Information *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBJbmZvcm1hdGlvbiAq</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Category *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2F0ZWdvcnkgKg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Select Task Category" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2VsZWN0IFRhc2sgQ2F0ZWdvcnk=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User List *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBMaXN0ICo=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Priority" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UHJpb3JpdHk=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Select Priority" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2VsZWN0IFByaW9yaXR5</seg>
+   </tuv>
+  </tu>
+  <tu tuid="High " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SGlnaCA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Start Date *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhcnQgRGF0ZSAq</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Deadline Date *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGVhZGxpbmUgRGF0ZSAq</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Comments " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29tbWVudHMg</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Description " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGVzY3JpcHRpb24g</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Document " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBEb2N1bWVudCA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Upload Document " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXBsb2FkIERvY3VtZW50IA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Keywords " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>S2V5d29yZHMg</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Status *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhdHVzICo=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide date for task " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/assign_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgZGF0ZSBmb3IgdGFzayA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please Select an user to assign " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/assign_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIFNlbGVjdCBhbiB1c2VyIHRvIGFzc2lnbiA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Show Deadline *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/assign_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2hvdyBEZWFkbGluZSAq</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Start Date" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/assign_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhcnQgRGF0ZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="End Date" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/assign_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RW5kIERhdGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid=" Assign Task " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/assign_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>IEFzc2lnbiBUYXNrIA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide a Task File" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/perform_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgYSBUYXNrIEZpbGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Documents " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/perform_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBEb2N1bWVudHMg</seg>
+   </tuv>
+  </tu>
+  <tu tuid=" Submit Task " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/perform_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>IFN1Ym1pdCBUYXNrIA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User type" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciB0eXBl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Export Task" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RXhwb3J0IFRhc2s=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Import Task" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW1wb3J0IFRhc2s=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Download Sample " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RG93bmxvYWQgU2FtcGxlIA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Download Status Info" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RG93bmxvYWQgU3RhdHVzIEluZm8=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Download Priority Info" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RG93bmxvYWQgUHJpb3JpdHkgSW5mbw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Are you sure to return this task to the owner" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXJlIHlvdSBzdXJlIHRvIHJldHVybiB0aGlzIHRhc2sgdG8gdGhlIG93bmVy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Are you sure to close this task" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXJlIHlvdSBzdXJlIHRvIGNsb3NlIHRoaXMgdGFzaw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Details" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBEZXRhaWxz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Description" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBEZXNjcmlwdGlvbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Status" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBTdGF0dXM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Priyority" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBQcml5b3JpdHk=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Created By" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBDcmVhdGVkIEJ5</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task ID" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBJRA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task Attachment" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBBdHRhY2htZW50</seg>
+   </tuv>
+  </tu>
+  <tu tuid="File Name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RmlsZSBOYW1l</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Uploaded By" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXBsb2FkZWQgQnk=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Upload Date" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXBsb2FkIERhdGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="download" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>ZG93bmxvYWQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task History" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBIaXN0b3J5</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Assigned to" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXNzaWduZWQgdG8=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Start date" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3RhcnQgZGF0ZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Submit date" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3VibWl0IGRhdGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Task status" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGFzayBzdGF0dXM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Comments" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29tbWVudHM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="By" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Qnk=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Action date/time" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWN0aW9uIGRhdGUvdGltZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Assignee" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_task/task_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QXNzaWduZWU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="This email already exists" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGhpcyBlbWFpbCBhbHJlYWR5IGV4aXN0cw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide first name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgZmlyc3QgbmFtZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide last name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgbGFzdCBuYW1l</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide email" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgZW1haWw=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide valid email" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgdmFsaWQgZW1haWw=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please select user type" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHNlbGVjdCB1c2VyIHR5cGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide id number" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgaWQgbnVtYmVy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Password should be proper" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGFzc3dvcmQgc2hvdWxkIGJlIHByb3Blcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide mobile number in numeric." datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgbW9iaWxlIG51bWJlciBpbiBudW1lcmljLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Account Management" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWNjb3VudCBNYW5hZ2VtZW50</seg>
+   </tuv>
+  </tu>
+  <tu tuid="First Name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Rmlyc3QgTmFtZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Middle Name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWlkZGxlIE5hbWU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Last Name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TGFzdCBOYW1l</seg>
+   </tuv>
+  </tu>
+  <tu tuid="ID Number" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SUQgTnVtYmVy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Profile Photo" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UHJvZmlsZSBQaG90bw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Gender" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>R2VuZGVy</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Male" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFsZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Female" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RmVtYWxl</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Nationality" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmF0aW9uYWxpdHk=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Mobile Number" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TW9iaWxlIE51bWJlcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Manager" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFuYWdlcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Campus" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2FtcHVz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Department" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGVwYXJ0bWVudA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Position" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UG9zaXRpb24=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Grade" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>R3JhZGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Courses" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBDb3Vyc2Vz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Course Type" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q291cnNlIFR5cGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Course Name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q291cnNlIE5hbWU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Council/University/Institute" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q291bmNpbC9Vbml2ZXJzaXR5L0luc3RpdHV0ZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Year" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>WWVhcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Marks Obtained" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWFya3MgT2J0YWluZWQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Total Marks" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VG90YWwgTWFya3M=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="add more" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>YWRkIG1vcmU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="This User name already exists" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGhpcyBVc2VyIG5hbWUgYWxyZWFkeSBleGlzdHM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Email must belong to dream wedding@dream wedding.edu.sa format" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RW1haWwgbXVzdCBiZWxvbmcgdG8gZHJlYW0gd2VkZGluZ0BkcmVhbSB3ZWRkaW5nLmVkdS5zYSBmb3JtYXQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide user name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgdXNlciBuYW1l</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide password" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgcGFzc3dvcmQ=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Password size should be 6 to 12 and &lt;br&gt; must contain capital letter and number" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGFzc3dvcmQgc2l6ZSBzaG91bGQgYmUgNiB0byAxMiBhbmQgPGJyPiBtdXN0IGNvbnRhaW4gY2FwaXRhbCBsZXR0ZXIgYW5kIG51bWJlcg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Password size should be 6 to 12 characters." datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGFzc3dvcmQgc2l6ZSBzaG91bGQgYmUgNiB0byAxMiBjaGFyYWN0ZXJzLg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide a 12 digit mobile number in numeric." datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgYSAxMiBkaWdpdCBtb2JpbGUgbnVtYmVyIGluIG51bWVyaWMu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="First Name *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Rmlyc3QgTmFtZSAq</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Last Name *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TGFzdCBOYW1lICo=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Name *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBOYW1lICo=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Password *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGFzc3dvcmQgKg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Email *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RW1haWwgKg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Address" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRkcmVzcw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Contact Number *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29udGFjdCBOdW1iZXIgKg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Type *" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBUeXBlICo=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Select User Type" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2VsZWN0IFVzZXIgVHlwZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="User Status " datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VXNlciBTdGF0dXMg</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Select User Status" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/add-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2VsZWN0IFVzZXIgU3RhdHVz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="View Detail" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/show_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VmlldyBEZXRhaWw=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Image" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/show_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW1hZ2U=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Export User" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RXhwb3J0IFVzZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Import User" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SW1wb3J0IFVzZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Download User Type Info" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RG93bmxvYWQgVXNlciBUeXBlIEluZm8=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Full Name" datatype="plaintext">
+   <prop type="page">//views/web_master/manage_user/user_detail.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RnVsbCBOYW1l</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Add Extra Action" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/menu_permission.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRkIEV4dHJhIEFjdGlvbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="This menu wiil deleted permanently with submenu" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VGhpcyBtZW51IHdpaWwgZGVsZXRlZCBwZXJtYW5lbnRseSB3aXRoIHN1Ym1lbnU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Add Menu" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRkIE1lbnU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Menu Title" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWVudSBUaXRsZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Menu Status" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWVudSBTdGF0dXM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Show" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2hvdw==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Hide" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SGlkZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Add Sub Menu" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/sub_menu_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>QWRkIFN1YiBNZW51</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Sub Menu Title" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/sub_menu_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U3ViIE1lbnUgVGl0bGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Menu Link" datatype="plaintext">
+   <prop type="page">//views/web_master/menu_setting/sub_menu_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TWVudSBMaW5r</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide ten digits id number" datatype="plaintext">
+   <prop type="page">//views/web_master/my_account/account-edit.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgdGVuIGRpZ2l0cyBpZCBudW1iZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide old Password" datatype="plaintext">
+   <prop type="page">//views/web_master/my_account/my_account.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgb2xkIFBhc3N3b3Jk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="New Password and Confirm Password did not match" datatype="plaintext">
+   <prop type="page">//views/web_master/my_account/my_account.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmV3IFBhc3N3b3JkIGFuZCBDb25maXJtIFBhc3N3b3JkIGRpZCBub3QgbWF0Y2g=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Old Password" datatype="plaintext">
+   <prop type="page">//views/web_master/my_account/my_account.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>T2xkIFBhc3N3b3Jk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="New Password" datatype="plaintext">
+   <prop type="page">//views/web_master/my_account/my_account.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>TmV3IFBhc3N3b3Jk</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Confirm Password" datatype="plaintext">
+   <prop type="page">//views/web_master/my_account/my_account.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29uZmlybSBQYXNzd29yZA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Comment" datatype="plaintext">
+   <prop type="page">//views/web_master/my_task/complete_task.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29tbWVudA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Complete" datatype="plaintext">
+   <prop type="page">//views/web_master/my_task/complete_task.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q29tcGxldGU=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide comment " datatype="plaintext">
+   <prop type="page">//views/web_master/my_task/reassign_user.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgY29tbWVudCA=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Download Sample CSV" datatype="plaintext">
+   <prop type="page">//views/web_master/my_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RG93bmxvYWQgU2FtcGxlIENTVg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Failed to return the task. Please try again" datatype="plaintext">
+   <prop type="page">//views/web_master/my_task/show_list.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RmFpbGVkIHRvIHJldHVybiB0aGUgdGFzay4gUGxlYXNlIHRyeSBhZ2Fpbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide number of records per page" datatype="plaintext">
+   <prop type="page">//views/web_master/site_setting/site_setting.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgbnVtYmVyIG9mIHJlY29yZHMgcGVyIHBhZ2U=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Please provide numeric value." datatype="plaintext">
+   <prop type="page">//views/web_master/site_setting/site_setting.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UGxlYXNlIHByb3ZpZGUgbnVtZXJpYyB2YWx1ZS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Site Setting" datatype="plaintext">
+   <prop type="page">//views/web_master/site_setting/site_setting.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2l0ZSBTZXR0aW5n</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Records per page" datatype="plaintext">
+   <prop type="page">//views/web_master/site_setting/site_setting.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>UmVjb3JkcyBwZXIgcGFnZQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Turn SMS" datatype="plaintext">
+   <prop type="page">//views/web_master/site_setting/site_setting.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VHVybiBTTVM=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="On" datatype="plaintext">
+   <prop type="page">//views/web_master/site_setting/site_setting.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>T24=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Off" datatype="plaintext">
+   <prop type="page">//views/web_master/site_setting/site_setting.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>T2Zm</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Original Text" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/search_paging.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>T3JpZ2luYWwgVGV4dA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="No result found!!" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/search_paging.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Tm8gcmVzdWx0IGZvdW5kISE=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Well done!" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>V2VsbCBkb25lIQ==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Full Text Search" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RnVsbCBUZXh0IFNlYXJjaA==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Translate Scanner" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VHJhbnNsYXRlIFNjYW5uZXI=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Click here for scan new text which are not in the list" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2xpY2sgaGVyZSBmb3Igc2NhbiBuZXcgdGV4dCB3aGljaCBhcmUgbm90IGluIHRoZSBsaXN0</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Create A Backup" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q3JlYXRlIEEgQmFja3Vw</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Scan for new pages" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>U2NhbiBmb3IgbmV3IHBhZ2Vz</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Delete All and Scan" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RGVsZXRlIEFsbCBhbmQgU2Nhbg==</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Translated word List" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>VHJhbnNsYXRlZCB3b3JkIExpc3Q=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Character List" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2hhcmFjdGVyIExpc3Q=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Here you can scan for new pages and take backup for scan pages." datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>SGVyZSB5b3UgY2FuIHNjYW4gZm9yIG5ldyBwYWdlcyBhbmQgdGFrZSBiYWNrdXAgZm9yIHNjYW4gcGFnZXMu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="From here Admin can create date-wise backup and scan for new pages here." datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>RnJvbSBoZXJlIEFkbWluIGNhbiBjcmVhdGUgZGF0ZS13aXNlIGJhY2t1cCBhbmQgc2NhbiBmb3IgbmV3IHBhZ2VzIGhlcmUu</seg>
+   </tuv>
+  </tu>
+  <tu tuid="N.B. Backup will be created with a suffix of date." datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Ti5CLiBCYWNrdXAgd2lsbCBiZSBjcmVhdGVkIHdpdGggYSBzdWZmaXggb2YgZGF0ZS4=</seg>
+   </tuv>
+  </tu>
+  <tu tuid="Close" datatype="plaintext">
+   <prop type="page">//views/web_master/translation/translations.tpl.php</prop>
+   <tuv xml:lang="en">
+    <seg>Q2xvc2U=</seg>
+   </tuv>
+  </tu>
+ </body>
+</tmx>

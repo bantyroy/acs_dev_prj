@@ -1,0 +1,91 @@
+
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+}
+.prettycheckbox, .prettyradio {
+    display: inline-block;
+    margin: 0;
+    padding: 6px 0 0 0;
+	float:left;
+}
+.emailbox .prettycheckbox, .prettyradio{ float:none;}
+.isddesignTop .prettycheckbox, .prettyradio, .isdProDetails .prettycheckbox, .prettyradio{
+    padding: 0px 0 0 0;
+}
+.prettycheckbox a, .prettyradio a {
+    background: url("../img/radiobutton.jpg") repeat scroll 0 0 ;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 13px;
+    margin: 0;
+    width: 13px;
+}
+.prettycheckbox a{
+    background: url("../img/checkbox.jpg") repeat scroll 0 0 ;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 26px;
+    margin: 0;
+    width: 26px;
+}
+
+.prettycheckbox a:focus, .prettyradio a:focus {
+    outline: 0 none;
+}
+/*.prettycheckbox label, .prettyradio label {
+    cursor: pointer;
+    display: block;
+    float: left;
+    margin: 6px 5px;
+}*/
+.prettycheckbox a.disabled, .prettycheckbox label.disabled, .prettyradio a.disabled, .prettyradio label.disabled {
+    cursor: not-allowed;
+}
+.prettycheckbox a {
+    background-position: 0 0;
+}
+.prettycheckbox a:focus {
+    background-position: 0px 0;
+}
+.prettycheckbox a.checked {
+    background-position: 0px -26px;
+}
+.prettycheckbox a.checked:focus {
+    background-position: 0px -26px;
+}
+.prettycheckbox a.checked.disabled {
+    background-position: 0px -26px;
+}
+.prettycheckbox a.disabled {
+    background-position: 0px -26px;
+}
+.prettyradio a {
+    background-position: 0px 0;
+}
+.prettyradio a:focus {
+    background-position: 0px 0;
+}
+.prettyradio a.checked {
+    background-position: 0px -13px;
+}
+.prettyradio a.checked:focus {
+    background-position: 0px -13px;
+}
+.prettyradio a.checked.disabled {
+    background-position: 0px -13px;
+}
+.prettyradio a.disabled {
+    background-position: 0px -13px;
+}
+@media only screen and (max-width:480px){
+/********************review_project*********************/
+.prettycheckbox, .prettyradio {float:none;}
+}

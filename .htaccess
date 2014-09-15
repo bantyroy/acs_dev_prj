@@ -1,0 +1,17 @@
+Options +FollowSymLinks
+
+RewriteBase /acs_dev_prj/
+
+RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^codeuridea\.net [NC]
+#RewriteRule (.*) http://www.codeuridea.net/acs_dev_prj/$1 [L,R=301]
+
+RewriteCond $1 !(^index\.php|gif$|GIF$|jpg$|JPG$|jpeg$|JPEG$|png$|PNG$|bmp$|zip$|videos$|avi$|BMP$|ico$|js$|php$|htm$|html$|css$|ttf$|txt$|pdf$|swf$|flv$|mp3$|doc$|docx$|xls$|robots\.txt$|video_chat$)
+
+RewriteRule ^(?!resource\/js\/tinymce)(?!html)(?!font)(?!resource)(?!uploaded)(?!paypal)(.*?)(\.html|\.php|\/)?$ index.php/$1 [NC,L]
+
+#RewriteRule ^(.*?)(\.html|\.php|\/)?$ index.php/$1 [NC,L]
+
+RewriteRule ^(.*)$ - [NC,L]
+
+#php_value session.gc_maxlifetime 86400

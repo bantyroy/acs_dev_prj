@@ -1,0 +1,17 @@
+LinkedIN
+---------------------------
+Company: codeuridea
+
+Application Name: isubTECH
+
+API Key: 75aktv5sywpc3b
+
+Secret Key: NBkt29ha8c3vYK21
+
+OAuth User Token: 1a49e535-1e5a-4b6b-a146-cec3d602253a
+
+OAuth User Secret: f75ecf08-7663-4492-90fd-a69a3d37dcb5
+
+
+Facebook
+--------------------------
