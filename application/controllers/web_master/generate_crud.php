@@ -44,6 +44,7 @@ class Generate_crud extends MY_Controller
                 'file' => 'File Upload'
             );
             $this->data['form_field_type'] = $this->form_field_type;
+            $this->tbl_prefix = $this->db->tableprefix;
         }
         catch(Exception $err_obj)
         {

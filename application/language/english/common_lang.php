@@ -16,10 +16,10 @@
 * 
 */
 
-$lang['site_name_lc'] = 'isubTech';///lowercase Site full name
-$lang['site_name_ufc'] = 'isubTECH';///lowercase Site full name
-$lang['site_name_uc'] = 'iSUBTECH';///uppercase Site full name
-$lang['site_name_link'] = 'www.isubtech.com';
+$lang['site_name_lc'] = 'Acs Dev Project';///lowercase Site full name
+$lang['site_name_ufc'] = 'Acs Dev Project';///lowercase Site full name
+$lang['site_name_uc'] = 'Acs Dev Project';///uppercase Site full name
+$lang['site_name_link'] = 'www.codeuridea.net';
 
 $lang['be_Demo'] = 'This is demo.';
 

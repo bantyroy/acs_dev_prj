@@ -265,7 +265,7 @@
                     <span class="icon-bar"></span>
                 </a>
                 				
-				<img src="<?php echo base_url().'resource/admin/img/logo.png' ?>" alt="###SITE_NAME_LINK###" class="logo" />
+				<!--<img src="<?php echo base_url().'resource/admin/img/logo.png' ?>" alt="###SITE_NAME_LINK###" class="logo" />--><span style="font-size: 33px; color: #fff;">Acs Dev Project</span>
                 
             </nav>
         </header>

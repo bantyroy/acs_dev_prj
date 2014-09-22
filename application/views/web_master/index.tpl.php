@@ -54,7 +54,8 @@
 
             <!-- Header Navbar: style can be found in header.less -->
              <nav class="navbar navbar-static-top text-center" role="navigation">
-         <img src="<?php echo base_url().'resource/admin/img/logo.png' ?>" alt="###SITE_NAME_LINK###" />
+         <!--<img src="<?php echo base_url().'resource/admin/img/logo.png' ?>" alt="###SITE_NAME_LINK###" />-->
+         <span style="font-size: 33px; color: #fff;">Acs Dev Project</span>
             </nav>
         </header>
         
